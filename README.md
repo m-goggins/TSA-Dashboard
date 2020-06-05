@@ -1,5 +1,7 @@
 # Teacher Shortage Area Dashboard
 
+Link to dashboard: https://mgoggins.shinyapps.io/teachershortages/
+
 The TSA dashboard was built using R Shiny and data from the U.S. Department of Education. The project addresses chronic teacher shortages in the U.S. by state, by content area, and over time. 
 
 All data can be found at the following website: https://tsa.ed.gov/#/home/
